@@ -1,12 +1,7 @@
-:smile:
-:heart:
+_I am begineer._
+*I am a newbie.*
 
-1. Math
-2. Social
-3. Science
-   1. Physics
-   2. Chemistry
+__I learnt markdown.__
+**I made a portfolio.**
 
-* Book
-* Copy
-* Pencil
+__I eanted to make an **website**. __

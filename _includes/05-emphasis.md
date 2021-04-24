@@ -6,6 +6,9 @@
 3. Science
    i. Physics
    ii. Chemistry
+
 - Book
 - Copy
--Pencil
+- Pencil
+  * Eraser
+  * Sharpener

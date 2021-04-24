@@ -4,11 +4,12 @@
 1. Math
 2. Social
 3. Science
-   i. Physics
-   ii. Chemistry
+   1. Physics
+   2. Chemistry
 
 - Book
 - Copy
 - Pencil
-  * Eraser
-  * Sharpener
+
+* Eraser
+* Sharpener

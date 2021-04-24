@@ -10,5 +10,3 @@
 * Book
 * Copy
 * Pencil
-   * Eraser
-   * Sharpener
